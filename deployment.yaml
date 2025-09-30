@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: hello-app
-        image: mateolima/hello-app:97ff6753b81949be93c35f7ea38d1c25e6258076
+        image: mateolima/hello-app:9b634f4d856803e67c88098dafd006bb07c11d5d
         ports:
         - containerPort: 80
